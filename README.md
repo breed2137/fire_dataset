@@ -12,7 +12,7 @@ dataset information
 non fire video dataset : non fire video dataset such as chimney smoke, sunset, and cloud.
 
 
-fire video dataset1,2,3,4 : fire video dataset flame, smoke, fire
+fire video dataset(1,2,3,4) : fire video dataset flame, smoke, fire
 
 
 fire image dataset : fire and non fire image dataset
