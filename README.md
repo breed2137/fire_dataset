@@ -15,10 +15,7 @@ non fire video dataset : non fire video dataset such as chimney smoke, sunset, a
 fire video dataset1,2,3,4 : fire video dataset flame, smoke, fire
 
 
-non fire image dataset : non fire image dataset
-
-
-fire image dataset : fire image dataset
+fire image dataset : fire and non fire image dataset
 
 
 evaluation dataset : https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/
