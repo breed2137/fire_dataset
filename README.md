@@ -1,7 +1,7 @@
 paper " A Video-Based Fire Detection Using Deep Learning Models".
 
 
-fire_dataset consists of the videos and images., not include annotation information.
+The fire dataset consists of the videos and images.
 
 
 We collected fire / non-fire data by youtube and crawling. 
