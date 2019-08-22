@@ -1,4 +1,28 @@
 paper " A Video-Based Fire Detection Using Deep Learning Models".
-fire_dataset
 
+
+fire_dataset consists of the videos and images., not include annotation information.
+
+
+We collected fire / non-fire data through youtube and crawling. 
+
+
+dataset information
+
+non fire video dataset : non fire video dataset such as chimney smoke, sunset, and cloud.
+
+
+fire video dataset1,2,3,4 : fire video dataset flame, smoke, fire
+
+
+non fire image dataset : non fire image dataset
+
+
+fire image dataset : fire image dataset
+
+
+evaluation dataset : https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/
+
+#references
+If you use these datasets please cite:
 Byoungjun Kim, and Joonwhoan Lee. "A Video-Based Fire Detection Using Deep Learning Models." Applied Sciences 9.14 (2019): 2862.
